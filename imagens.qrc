@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pasta/bloc_madeira3.jpg</file>
+        <file>pasta/bloc_pedra3.jpg</file>
+        <file>pasta/planets.jpg</file>
+        <file>pasta/space_blue.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pasta/AngryBirdsSpace.mp3</file>
+        <file>pasta/birdColision.mp3</file>
+        <file>pasta/birdFlyingBlue.mp3</file>
+        <file>pasta/birdFlyingRed.mp3</file>
+        <file>pasta/birdFlyingYellow.mp3</file>
+        <file>pasta/gameComplete.mp3</file>
+        <file>pasta/levelComplete.mp3</file>
+        <file>pasta/levelFailed.mp3</file>
+        <file>pasta/pigletteDamage.mp3</file>
+        <file>pasta/pigletteDestroyed2.mp3</file>
+        <file>pasta/slingshotStreched.mp3</file>
+        <file>pasta/bloc_madeira3.jpg</file>
+        <file>pasta/bloc_pedra3.jpg</file>
+        <file>pasta/planets.jpg</file>
+        <file>pasta/space_blue.jpg</file>
+    </qresource>
+</RCC>
