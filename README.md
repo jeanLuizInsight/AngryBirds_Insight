@@ -13,4 +13,5 @@ _ madeiras; <br>
 _ pedras; <br>
 _ forças: aceleração, gravidade, velocidade, deslocamento angular e atração planetária; <br>
 _ detecção de colisão: caixa <> caixa, caixa <> círculo e círculo <> círculo; <br>
-_ tracker;
+_ tracker; <br>
+* Animação baseada em tempo;
